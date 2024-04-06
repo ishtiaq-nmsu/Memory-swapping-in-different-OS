@@ -1,1 +1,2 @@
 # Memory-swapping-in-different-OS
+This experiment's objective is to observe the effects of extensive physical memory consumption and swapping during program execution time. A ‘C’ program is designed which incrementally consumes all available physical memory and eventually forces the system to utilize swap space. The experiment is performed across three different platforms to understand the behavior of each platform as memory management is done differently in different platforms.
